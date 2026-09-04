@@ -1,0 +1,8 @@
+Stage,Records,Unit and boundary
+Ingested,"21,053","Corpus rows; 21,050 primary + 3 supplemental"
+Low-frequency label excluded,"4,570","Continuity rule, not tune-identity adjudication"
+Lost tune name excluded,372,Exact stored-label boundary
+Continuity layer retained,"16,111",Records under 99 exact stored labels
+Ten-label pilot aligned,"5,575",Purposive pilot across nine source volumes
+Exact source-exemplar match excluded,1,Pre-existing leakage rule
+Formal pilot retained,"5,574","Records; not deduplicated independent works"

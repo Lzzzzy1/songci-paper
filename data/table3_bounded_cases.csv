@@ -1,0 +1,4 @@
+Role,Stored record,Mechanical evidence,Interpretive use
+Candidate-sensitive,Zhang Xiaoxiang / Huanxisha ci.song.6000.json#288,"Tone residual 20; tied range 17–21; coverage .595238 vs .547619; high-tail Jaccard .209302",Inspect how a witnessed text changes status under tied later patterns
+Metadata-boundary,Anonymous / Xijiangyue ci.song.20000.json#361,"Rhyme residual/coverage .5 in all candidate scenarios; removed by anonymous exclusion","Expose a stored-author boundary; no anonymous-poetics claim"
+Stable comparator,Mao Pang / Shuidiaogetou ci.song.4000.json#702,"Tone residual 2; coverage .694737; low-tail across tested policies",Counter localized sensitivity with within-selector stability

@@ -1,0 +1,110 @@
+{
+  "generated_on": "2026-09-04",
+  "scope": "Four frozen SongCi AICSS manuscript files and private archive package",
+  "status": "pass",
+  "source_delivery_byte_match": true,
+  "manuscripts": {
+    "anonymous": {
+      "docx": {
+        "path": "manuscript/final/SongCi_AICSS2026_Final_Anonymous.docx",
+        "bytes": 193412,
+        "sha256": "CC490CF82FE2601397238F190888E1C6F98371C02BDC23B4196FD7A9578FEDF9",
+        "sections": 1,
+        "columns": 1,
+        "tables": 3,
+        "figures": 2,
+        "references": 20,
+        "citation_numbers": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+        "author": "Anonymous",
+        "last_modified_by": "Anonymous",
+        "subject": "AICSS 2026 double-blind submission",
+        "comments": 0,
+        "tracked_insertions": 0,
+        "tracked_deletions": 0,
+        "highlights": 0
+      },
+      "pdf": {
+        "path": "manuscript/final/SongCi_AICSS2026_Final_Anonymous.pdf",
+        "bytes": 489665,
+        "sha256": "A882DB4A3C220A033E759CFF308CE0D4998DA2568B330883995B8E7204FA6A09",
+        "pages": 8,
+        "page_size_points": [612, 792],
+        "encrypted": false,
+        "javascript": false,
+        "author": "Anonymous"
+      },
+      "identity_scan_pass": true
+    },
+    "author_copy": {
+      "docx": {
+        "path": "manuscript/final/SongCi_AICSS2026_Final_Author_Copy.docx",
+        "bytes": 193473,
+        "sha256": "E184D74719DE83F04AD5D4A8CB592E95FE29CC3C888EF0805F64CBD38B371BF1",
+        "sections": 1,
+        "columns": 1,
+        "tables": 3,
+        "figures": 2,
+        "references": 20,
+        "citation_numbers": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+        "author": "Lin Zhanyi",
+        "last_modified_by": "Lin Zhanyi",
+        "subject": "AICSS 2026 author copy",
+        "comments": 0,
+        "tracked_insertions": 0,
+        "tracked_deletions": 0,
+        "highlights": 0
+      },
+      "pdf": {
+        "path": "manuscript/final/SongCi_AICSS2026_Final_Author_Copy.pdf",
+        "bytes": 490738,
+        "sha256": "6C0AD7DBD3A1BA198657DECFFBC3A0CB65E807F9A217F2AD1BAA3AA374AD8527",
+        "pages": 8,
+        "page_size_points": [612, 792],
+        "encrypted": false,
+        "javascript": false,
+        "author": "Lin Zhanyi"
+      }
+    }
+  },
+  "layout": {
+    "page_width_twips": 12240,
+    "page_height_twips": 15840,
+    "left_margin_twips": 1440,
+    "right_margin_twips": 2040,
+    "top_margin_twips": 1760,
+    "bottom_margin_twips": 2840
+  },
+  "evidence": {
+    "frozen_values_checked": 31,
+    "frozen_values_missing": 0,
+    "tables": 3,
+    "figures": 2,
+    "references": 20,
+    "pages_visually_inspected": 16,
+    "visual_failures": 0,
+    "blue_pixels": 0,
+    "strict_non_grayscale_pixels": 0
+  },
+  "package_verifier": {
+    "command": "python scripts/verify_package.py",
+    "required_result": "PACKAGE VERIFICATION: PASS",
+    "local_result": "pass",
+    "files_above_50_mb": 0,
+    "files_above_100_mb": 0
+  },
+  "excluded": [
+    "temporary lock files",
+    "QA page images",
+    "temporary build directories",
+    "chat exports",
+    "third-party language-source documents",
+    "detector reports",
+    "machine-specific absolute paths",
+    "credentials"
+  ],
+  "boundaries": [
+    "No complete independent analysis rerun is claimed by this archive.",
+    "No historical-phonology reconstruction or causal identification is added.",
+    "The repository is not evidence of submission, acceptance, publication, or indexing."
+  ]
+}

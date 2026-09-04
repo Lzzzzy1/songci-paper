@@ -1,0 +1,12 @@
+~$*
+*.tmp
+*.temp
+*.bak
+*.log
+*.py[cod]
+__pycache__/
+.DS_Store
+Thumbs.db
+qa/
+renders/
+tmp/

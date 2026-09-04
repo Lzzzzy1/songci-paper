@@ -1,0 +1,1135 @@
+{
+  "generated_at": "2026-09-03",
+  "method": "Crossref works API for DOI references; direct source retrieval for URL references; manual verification retained for the print book.",
+  "results": [
+    {
+      "key": "chinese-poetry",
+      "url": "https://github.com/chinese-poetry/chinese-poetry/commit/b8594f81a89752241442f2ce267d6f66f96704ee",
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://github.com/chinese-poetry/chinese-poetry/commit/b8594f81a89752241442f2ce267d6f66f96704ee",
+        "content_type": "text/html; charset=utf-8",
+        "length": 266509,
+        "sha256": "02a4977a0efc6e464ce07fd9ced576fc5b2c44c488da46c92d800fc09bab52a1",
+        "html_title": "Merge pull request #417 from GuitarXY/fix/loader-directory-excludes · chinese-poetry/chinese-poetry@b8594f8 · GitHub"
+      }
+    },
+    {
+      "key": "deerwester1990",
+      "doi": "10.1002/(SICI)1097-4571(199009)41:6<391::AID-ASI1>3.0.CO;2-9",
+      "crossref": {
+        "title": [
+          "Indexing by latent semantic analysis"
+        ],
+        "subtitle": [],
+        "author": [
+          {
+            "given": "Scott",
+            "family": "Deerwester",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Susan T.",
+            "family": "Dumais",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "George W.",
+            "family": "Furnas",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Thomas K.",
+            "family": "Landauer",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Richard",
+            "family": "Harshman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              1990,
+              9
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1990,
+              9
+            ]
+          ]
+        },
+        "container_title": [
+          "Journal of the American Society for Information Science"
+        ],
+        "publisher": "Wiley",
+        "volume": "41",
+        "issue": "6",
+        "page": "391-407",
+        "article_number": null,
+        "type": "journal-article",
+        "doi": "10.1002/(sici)1097-4571(199009)41:6<391::aid-asi1>3.0.co;2-9",
+        "url": "https://doi.org/10.1002/(sici)1097-4571(199009)41:6<391::aid-asi1>3.0.co;2-9"
+      },
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://api.crossref.org/works/10.1002%2F%28SICI%291097-4571%28199009%2941%3A6%3C391%3A%3AAID-ASI1%3E3.0.CO%3B2-9",
+        "content_type": "application/json",
+        "length": 2906,
+        "sha256": "6a17e9f89d2d0bd2d604a2aaf4d2558bf7c3dc027a7987c35372fffdf53cc858"
+      }
+    },
+    {
+      "key": "dobson2021",
+      "doi": "10.63744/gqdn7tfwn6r8",
+      "crossref": {
+        "title": [
+          "Interpretable Outputs: Criteria for Machine Learning in the Humanities"
+        ],
+        "subtitle": [],
+        "author": [
+          {
+            "given": "James",
+            "family": "Dobson",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              25
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              25
+            ]
+          ]
+        },
+        "container_title": [
+          "Digital Humanities Quarterly"
+        ],
+        "publisher": "The Association for Computers and the Humanities",
+        "volume": "15",
+        "issue": "2",
+        "page": null,
+        "article_number": null,
+        "type": "journal-article",
+        "doi": "10.63744/gqdn7tfwn6r8",
+        "url": "https://doi.org/10.63744/gqdn7tfwn6r8"
+      },
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://api.crossref.org/works/10.63744%2Fgqdn7tfwn6r8",
+        "content_type": "application/json",
+        "length": 2771,
+        "sha256": "45f19c51605419b08a0f1253ed6f5f7a6635e15ea558d51d8eb6cb7d3b939c51"
+      }
+    },
+    {
+      "key": "drucker2011",
+      "url": "https://digitalhumanities.org/dhq/vol/5/1/000091/000091.html",
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://dhq.digitalhumanities.org/vol/5/1/000091/000091.html",
+        "content_type": "text/html",
+        "length": 192423,
+        "sha256": "2b28edb4523cf0837815ef7549b0afbdb67e37098ee4b30dea6135a855d8c1cd",
+        "html_title": "DHQ: Digital Humanities Quarterly: Humanities Approaches to Graphical Display"
+      }
+    },
+    {
+      "key": "freedman1983",
+      "doi": "10.1080/07350015.1983.10509354",
+      "crossref": {
+        "title": [
+          "A Nonstochastic Interpretation of Reported Significance Levels"
+        ],
+        "subtitle": [],
+        "author": [
+          {
+            "given": "David",
+            "family": "Freedman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "David",
+            "family": "Lane",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              1983,
+              10
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1983,
+              10
+            ]
+          ]
+        },
+        "container_title": [
+          "Journal of Business &amp; Economic Statistics"
+        ],
+        "publisher": "Informa UK Limited",
+        "volume": "1",
+        "issue": "4",
+        "page": "292-298",
+        "article_number": null,
+        "type": "journal-article",
+        "doi": "10.1080/07350015.1983.10509354",
+        "url": "https://doi.org/10.1080/07350015.1983.10509354"
+      },
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://api.crossref.org/works/10.1080%2F07350015.1983.10509354",
+        "content_type": "application/json",
+        "length": 5691,
+        "sha256": "dca0aa1c04632cac00a9903b0d800135ab96eab751486612b93dbd24d9ff2eb4"
+      }
+    },
+    {
+      "key": "hagiwara2017",
+      "doi": "10.34382/00010479",
+      "fetch": {
+        "ok": false,
+        "status": 404,
+        "error": "HTTP Error 404: Not Found",
+        "final_url": "https://api.crossref.org/works/10.34382%2F00010479"
+      }
+    },
+    {
+      "key": "herrmann2023",
+      "doi": "10.63744/apvw2r52eet3",
+      "crossref": {
+        "title": [
+          "Tool criticism in practice. On methods, tools and aims of computational literary studies"
+        ],
+        "subtitle": [],
+        "author": [
+          {
+            "given": "J. Berenike",
+            "family": "Herrmann",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anne-Sophie",
+            "family": "Bories",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Francesca",
+            "family": "Frontini",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Clèmence",
+            "family": "Jacquot",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Steffen",
+            "family": "Pielström",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Simone",
+            "family": "Rebora",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Geoffrey",
+            "family": "Rockwell",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Stéfan",
+            "family": "Sinclair",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              7
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              7
+            ]
+          ]
+        },
+        "container_title": [
+          "Digital Humanities Quarterly"
+        ],
+        "publisher": "The Association for Computers and the Humanities",
+        "volume": "17",
+        "issue": "2",
+        "page": null,
+        "article_number": null,
+        "type": "journal-article",
+        "doi": "10.63744/apvw2r52eet3",
+        "url": "https://doi.org/10.63744/apvw2r52eet3"
+      },
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://api.crossref.org/works/10.63744%2Fapvw2r52eet3",
+        "content_type": "application/json",
+        "length": 5813,
+        "sha256": "e7afd1269e7ebe550251b1fd335882064f2fba7355167df4506fb58d8dd8a73b"
+      }
+    },
+    {
+      "key": "holm1979",
+      "url": "https://www.jstor.org/stable/4615733",
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://www.jstor.org/stable/4615733",
+        "content_type": "text/html; charset=utf-8",
+        "length": 3038,
+        "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea",
+        "html_title": "Client Challenge"
+      }
+    },
+    {
+      "key": "jiang2020",
+      "query": "Qing dai ci pu cong kan Jiang Hui 2020 National Library Press",
+      "status": "manual_source_check_required"
+    },
+    {
+      "key": "lee2019",
+      "url": "https://scholars.hkbu.edu.hk/ws/portalfiles/portal/55017675/OA-0714.pdf",
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://scholars.hkbu.edu.hk/ws/portalfiles/portal/55017675/OA-0714.pdf",
+        "content_type": "application/pdf",
+        "length": 9050779,
+        "sha256": "ec112944754c5d65549a9d2c5f6a539f56e7dd059a6afead9d528650f3f6d48d",
+        "html_title": null
+      }
+    },
+    {
+      "key": "lipsitch2010",
+      "doi": "10.1097/EDE.0b013e3181d61eeb",
+      "crossref": {
+        "title": [
+          "Negative Controls"
+        ],
+        "subtitle": [
+          "A Tool for Detecting Confounding and Bias in Observational Studies"
+        ],
+        "author": [
+          {
+            "given": "Marc",
+            "family": "Lipsitch",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Eric",
+            "family": "Tchetgen Tchetgen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ted",
+            "family": "Cohen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              5
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              5
+            ]
+          ]
+        },
+        "container_title": [
+          "Epidemiology"
+        ],
+        "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+        "volume": "21",
+        "issue": "3",
+        "page": "383-388",
+        "article_number": null,
+        "type": "journal-article",
+        "doi": "10.1097/ede.0b013e3181d61eeb",
+        "url": "https://doi.org/10.1097/ede.0b013e3181d61eeb"
+      },
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://api.crossref.org/works/10.1097%2FEDE.0b013e3181d61eeb",
+        "content_type": "application/json",
+        "length": 7226,
+        "sha256": "4044fed354fa0b9bc1d9cccea6fa8466788a62603ab0e051cd9257f40488e86f"
+      }
+    },
+    {
+      "key": "liu2018",
+      "doi": "10.1215/23290048-7257002",
+      "crossref": {
+        "title": [
+          "Exploring Chinese Poetry with Digital Assistance: Examples from Linguistic, Literary, and Historical Viewpoints"
+        ],
+        "subtitle": [],
+        "author": [
+          {
+            "given": "Chao-Lin",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "National Chengchi University, Taiwan chaolin@nccu.edu.tw"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Thomas J.",
+            "family": "Mazanec",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of California, Santa Barbara, USA mazanec@ucsb.edu"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jeffrey R.",
+            "family": "Tharsen",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Chicago, USA tharsen@uchicago.edu"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              1
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              1
+            ]
+          ]
+        },
+        "container_title": [
+          "Journal of Chinese Literature and Culture"
+        ],
+        "publisher": "Duke University Press",
+        "volume": "5",
+        "issue": "2",
+        "page": "276-321",
+        "article_number": null,
+        "type": "journal-article",
+        "doi": "10.1215/23290048-7257002",
+        "url": "https://doi.org/10.1215/23290048-7257002"
+      },
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://api.crossref.org/works/10.1215%2F23290048-7257002",
+        "content_type": "application/json",
+        "length": 17797,
+        "sha256": "0c416f1236664e9beece59f21e838b75a1fd7290ab787685a9ca40f0765247b5"
+      }
+    },
+    {
+      "key": "phipson2010",
+      "doi": "10.2202/1544-6115.1585",
+      "crossref": {
+        "title": [
+          "Permutation P-values Should Never Be Zero: Calculating Exact P-values When Permutations Are Randomly Drawn"
+        ],
+        "subtitle": [],
+        "author": [
+          {
+            "given": "Belinda",
+            "family": "Phipson",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "The Walter and Eliza Hall Institute of Medical Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gordon K",
+            "family": "Smyth",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The Walter and Eliza Hall Institute of Medical Reseach"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              10,
+              31
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              10,
+              31
+            ]
+          ]
+        },
+        "container_title": [
+          "Statistical Applications in Genetics and Molecular Biology"
+        ],
+        "publisher": "Walter de Gruyter GmbH",
+        "volume": "9",
+        "issue": "1",
+        "page": null,
+        "article_number": null,
+        "type": "journal-article",
+        "doi": "10.2202/1544-6115.1585",
+        "url": "https://doi.org/10.2202/1544-6115.1585"
+      },
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://api.crossref.org/works/10.2202%2F1544-6115.1585",
+        "content_type": "application/json",
+        "length": 3597,
+        "sha256": "68a60ca3f542fc13ff17758f610a906ec3de4aa563d76983b45e446d3c9b8f1f"
+      }
+    },
+    {
+      "key": "pichler2022",
+      "doi": "10.22148/001c.57195",
+      "crossref": {
+        "title": [
+          "From Concepts to Texts and Back: Operationalization as a Core Activity of Digital Humanities"
+        ],
+        "subtitle": [],
+        "author": [
+          {
+            "given": "Axel",
+            "family": "Pichler",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Stuttgart"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nils",
+            "family": "Reiter",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Cologne"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              12
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              12
+            ]
+          ]
+        },
+        "container_title": [
+          "Journal of Cultural Analytics"
+        ],
+        "publisher": "CA: Journal of Cultural Analytics",
+        "volume": "7",
+        "issue": "4",
+        "page": null,
+        "article_number": "1295",
+        "type": "journal-article",
+        "doi": "10.22148/001c.57195",
+        "url": "https://doi.org/10.22148/001c.57195"
+      },
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://api.crossref.org/works/10.22148%2F001c.57195",
+        "content_type": "application/json",
+        "length": 12895,
+        "sha256": "73fdb28b86805c105cf11191baea0b772c3e01b209452a9e9516ea790f7e047c"
+      }
+    },
+    {
+      "key": "qinding1715",
+      "url": "https://zh.wikisource.org/wiki/%E5%BE%A1%E5%AE%9A%E8%A9%9E%E8%AD%9C_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)",
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://zh.wikisource.org/wiki/%E5%BE%A1%E5%AE%9A%E8%A9%9E%E8%AD%9C_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)",
+        "content_type": "text/html; charset=UTF-8",
+        "length": 75525,
+        "sha256": "589eb8d5af4be42ccff4e2a4195335c0da92ba13c03dc98acbe050a8062c4d74",
+        "html_title": "御定詞譜 (四庫全書本) - 维基文库，自由的图书馆"
+      }
+    },
+    {
+      "key": "qu2026",
+      "doi": "10.1609/aaai.v40i39.40555",
+      "crossref": {
+        "title": [
+          "PoeTone: A Framework for Constrained Generation of Structured Chinese Songci with LLMs"
+        ],
+        "subtitle": [],
+        "author": [
+          {
+            "given": "Zhan",
+            "family": "Qu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shuzhou",
+            "family": "Yuan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michael",
+            "family": "Färber",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              14
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              14
+            ]
+          ]
+        },
+        "container_title": [
+          "Proceedings of the AAAI Conference on Artificial Intelligence"
+        ],
+        "publisher": "Association for the Advancement of Artificial Intelligence (AAAI)",
+        "volume": "40",
+        "issue": "39",
+        "page": "32764-32772",
+        "article_number": null,
+        "type": "journal-article",
+        "doi": "10.1609/aaai.v40i39.40555",
+        "url": "https://doi.org/10.1609/aaai.v40i39.40555"
+      },
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://api.crossref.org/works/10.1609%2Faaai.v40i39.40555",
+        "content_type": "application/json",
+        "length": 3624,
+        "sha256": "d02a3f43a0ad58272b912e800af7522b1665835b6dd17fe06f8ef842e5283c74"
+      }
+    },
+    {
+      "key": "song2022",
+      "doi": "10.18653/v1/2022.emnlp-main.486",
+      "crossref": {
+        "title": [
+          "Composing Ci with Reinforced Non-autoregressive Text Generation"
+        ],
+        "subtitle": [],
+        "author": [
+          {
+            "given": "Yan",
+            "family": "Song",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "container_title": [
+          "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing"
+        ],
+        "publisher": "Association for Computational Linguistics",
+        "volume": null,
+        "issue": null,
+        "page": "7219-7229",
+        "article_number": null,
+        "type": "proceedings-article",
+        "doi": "10.18653/v1/2022.emnlp-main.486",
+        "url": "https://doi.org/10.18653/v1/2022.emnlp-main.486"
+      },
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://api.crossref.org/works/10.18653%2Fv1%2F2022.emnlp-main.486",
+        "content_type": "application/json",
+        "length": 1672,
+        "sha256": "5826f443d8bb26ad76f05cf56f509ba855007cca7e7a8b99d77daba57beff9a4"
+      }
+    },
+    {
+      "key": "songyao2026",
+      "doi": "10.5334/johd.405",
+      "crossref": {
+        "title": [
+          "A Comprehensive Digital Corpus of Song Ci Poetry for Computational Analysis"
+        ],
+        "subtitle": [],
+        "author": [
+          {
+            "given": "Yao",
+            "family": "Song",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "container_title": [
+          "Journal of Open Humanities Data"
+        ],
+        "publisher": "Ubiquity Press, Ltd.",
+        "volume": "12",
+        "issue": null,
+        "page": null,
+        "article_number": "7",
+        "type": "journal-article",
+        "doi": "10.5334/johd.405",
+        "url": "https://doi.org/10.5334/johd.405"
+      },
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://api.crossref.org/works/10.5334%2Fjohd.405",
+        "content_type": "application/json",
+        "length": 2726,
+        "sha256": "adc66f11a7207a0a50bd97f2715783e567012aa5a8b7884a8781b4b1ed7572e8"
+      }
+    },
+    {
+      "key": "vanes2023",
+      "url": "https://www.digitalhumanities.org/dhq/vol/17/2/000692/000692.html",
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://dhq.digitalhumanities.org/vol/17/2/000692/000692.html",
+        "content_type": "text/html",
+        "length": 189458,
+        "sha256": "be6f05836a8789066635e868f25af67d83fb89d5fef7c6a434a3258c15e262cc",
+        "html_title": "DHQ: Digital Humanities Quarterly: Unpacking tool criticism as practice, in practice"
+      }
+    },
+    {
+      "key": "winkler2015",
+      "doi": "10.1016/j.neuroimage.2015.05.092",
+      "crossref": {
+        "title": [
+          "Multi-level block permutation"
+        ],
+        "subtitle": [],
+        "author": [
+          {
+            "given": "Anderson M.",
+            "family": "Winkler",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Matthew A.",
+            "family": "Webster",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Diego",
+            "family": "Vidaurre",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Thomas E.",
+            "family": "Nichols",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4169-9781",
+            "authenticated-orcid": false,
+            "given": "Stephen M.",
+            "family": "Smith",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              12
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              12
+            ]
+          ]
+        },
+        "container_title": [
+          "NeuroImage"
+        ],
+        "publisher": "Elsevier BV",
+        "volume": "123",
+        "issue": null,
+        "page": "253-268",
+        "article_number": null,
+        "type": "journal-article",
+        "doi": "10.1016/j.neuroimage.2015.05.092",
+        "url": "https://doi.org/10.1016/j.neuroimage.2015.05.092"
+      },
+      "fetch": {
+        "ok": true,
+        "status": 200,
+        "final_url": "https://api.crossref.org/works/10.1016%2Fj.neuroimage.2015.05.092",
+        "content_type": "application/json",
+        "length": 20901,
+        "sha256": "d2faed32a1d7dca5712542d3dc4f7191388ac0ed1df3195bb23011cf6b22cdbc"
+      }
+    }
+  ]
+}
