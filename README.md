@@ -1,6 +1,6 @@
 # Song Ci AICSS 2026 Manuscript Archive
 
-This private repository is the frozen manuscript archive for **Retrospective Prosodic Codification and Analytical Visibility in Song Ci: A Leakage- and Uncertainty-Audited Computational-Linguistic Study**.
+This public repository is the frozen manuscript archive for **Retrospective Prosodic Codification and Analytical Visibility in Song Ci: A Leakage- and Uncertainty-Audited Computational-Linguistic Study**.
 
 **Freeze date:** 2026-09-04
 **Archive status:** manuscript package only. This repository is not evidence of conference submission, acceptance, publication, or indexing.
